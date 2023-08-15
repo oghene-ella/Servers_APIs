@@ -1,1 +1,4 @@
-[]
+[
+    {"name":"shirt","price":5600,"size":"large","id":"236"},
+    { "name": "shorts", "price": 2800, "size": "medium", "id": "157" }
+]
