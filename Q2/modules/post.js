@@ -30,7 +30,7 @@ const postMethod = (req, res) => {
             }
 
             res.write("Successfully Added an Item\n");
-            res.end(JSON.stringify(req.new_body));
+            res.end(JSON.stringify(oldDB));
         });
     });
 }
