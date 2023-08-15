@@ -15,7 +15,7 @@ const getOneMethod = (req, res) => {
     
     if (dataIndex === -1) {
         res.writeHead("404");
-        res.end("item not found");
+        res.end("Oops, Inventory not found");
     }
     res.end(JSON.stringify(dataDbObj[dataIndex]));
 }
