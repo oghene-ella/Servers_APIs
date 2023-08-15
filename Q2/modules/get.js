@@ -10,8 +10,9 @@ const getMethod = (req, res) => {
             res.writeHead(404);
             res.end();
         }
-        
+
         res.writeHead(200)
+        // get all
         res.end(data);
     })
 }
