@@ -1,3 +1,14 @@
 [
-    
+  {
+    "0": "2",
+    "1": "3",
+    "2": "6",
+    "name": "shirt",
+    "price": 5600,
+    "size": "large",
+    "id": "236"
+  },
+  { "name": "shorts", "price": 2800, "size": "medium", "id": "111" },
+  { "name": "t-shirts", "price": 2180, "size": "small", "id": "197" },
+  { "name": "books", "price": 650, "size": "large", "id": "448" }
 ]
